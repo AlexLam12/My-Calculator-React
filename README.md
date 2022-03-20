@@ -1,6 +1,6 @@
 # My Calculator App
 Fully functional calculator made with react!
-![CalculatorApp](https://user-images.githubusercontent.com/84350426/159184467-cd0cb958-5f1c-4da9-930f-de7ebf1f3983.PNG)
+# ![CalculatorApp](https://user-images.githubusercontent.com/84350426/159184467-cd0cb958-5f1c-4da9-930f-de7ebf1f3983.PNG)
 
 
 ## Getting Started with Create React App
